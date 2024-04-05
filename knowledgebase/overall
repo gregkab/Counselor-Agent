@@ -1,0 +1,20 @@
+{
+    "University": "University of California, Irvine",
+    "GeneralCatalogue": {
+        "Edition": "2023-24 General Catalogue, Volume 57",
+        "Overview": "The UCI General Catalogue constitutes the University of California, Irvine’s document of record...",
+        "CourseListings": {
+        "LowerDivision": "numbered 1–99",
+        "UpperDivision": "numbered 100–199",
+        "GraduateCourses": "numbered 200 and above",
+        "Definitions": {
+            "ConcurrentCourses": "Concurrent courses are those that are offered at the same time and place...",
+            "Overlaps": "When a course includes a substantial amount of material that is also covered in a different UCI course...",
+            "CrossListedCourses": "A cross-listed course is one course that is offered at the same time and place with the same instructor..."
+        }
+        },
+        "MajorsMinorsAndAreasOfStudy": "Undergraduate majors are offered in all of the bachelor’s degree programs...",
+        "LocatingInformation": "Contact the individual academic program or administrative office for further information.",
+        "Contact": "University Editor’s Office, 215 Aldrich Hall, Irvine, CA 92697-4975"
+    }
+}

@@ -1,0 +1,1156 @@
+{
+  "EECS_courses":
+      [
+        {
+          "Course": "EECS 1",
+          "Title": "Introduction to Electrical Engineering and Computer Engineering",
+          "Units": 1,
+          "Description": "Introduction to the fields of Electrical Engineering and Computer Engineering, including possible careers in both traditional and new emerging areas. Background on both the Electrical Engineering and the Computer Engineering majors, curriculum requirements, specializations, and faculty research interests.",
+          "Design units": 0,
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 10",
+          "Title": "Computational Methods in Electrical and Computer Engineering",
+          "Units": 4,
+          "Description": "An introduction to computers and structured programming. Binary Data Representation. Hands-on experience with a high-level structured programming language. Introduction to algorithm efficiency. Applications of structured programming in solving engineering problems. Programming laboratory.",
+          "Design units": 0,
+          "Prerequisite": "MATH 2A",
+          "Corequisite": null,
+          "Overlaps with": "EECS 12",
+          "Restriction": "Chemical Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 12",
+          "Title": "Introduction to Programming",
+          "Units": 4,
+          "Description": "An introduction to computers and programming. Python programming syntax/style, types. Numbers and sequences. Control flow. I/O and errors/exceptions. Function calling, parameter passing, formal arguments, return values. Variable scoping. Programming laboratory.",
+          "Design units": 0,
+          "Prerequisite": null,
+          "Corequisite": "MATH 2A",
+          "Overlaps with": "EECS 10",
+          "Restriction": "Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 20",
+          "Title": "Computer Systems and C Programming",
+          "Units": 4,
+          "Description": "Introduction to computing systems. Data representation and operations. Simple logic design. Basic computer organization. Instruction set architecture and assembly language programming. Introduction to C. Functions and recursion, data structures, pointers. Programming laboratory.",
+          "Design units": 1,
+          "Prerequisite": "EECS 12",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 22",
+          "Title": "Advanced C Programming",
+          "Units": 3,
+          "Description": "C language programming concepts. Control flow, function calls, recursion. Basic and composite data types, static and dynamic data structures. Program modules and compilation units. Preprocessor macros. C standard libraries.",
+          "Design units": 1,
+          "Prerequisite": "EECS 10 or EECS 20",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 22L",
+          "Title": "Software Engineering Project in C Language",
+          "Units": 3,
+          "Description": "Hands-on experience with the ANSI-C programming language. Medium-sized programming projects, team work. Software specification, documentation, implementation, testing. Definition of data structures and application programming interface. Creation of program modules, linking with external libraries. Rule-based compilation, version control.",
+          "Design units": 3,
+          "Prerequisite": "EECS 22",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 31",
+          "Title": "Introduction to Digital Systems",
+          "Units": 4,
+          "Description": "Digital representation of information. Specification, analysis, design and optimization or combinational and sequential logic, register-transfer components and register-transfer systems with datapaths and controllers. Introduction to high-level and algorithmic state-machines and custom processors.",
+          "Design units": 2,
+          "Prerequisite": "ICS 31 or EECS 10 or EECS 12 or MAE 10 or ICS 32A",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Engineering Majors have first consideration for enrollment. Computer Science Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 31L",
+          "Title": "Introduction to Digital Logic Laboratory",
+          "Units": 3,
+          "Description": "Introduction to common digital integrated circuits: gates, memory circuits, MSI components. Operating characteristics, specifications, applications. Design of simple combinational and sequential digital systems (arithmetic processors game-playing machines). Construction and debugging techniques using hardware description languages and CAD tools.",
+          "Design units": 3,
+          "Prerequisite": "EECS 31 and (EECS 10 or EECS 12 or ICS 32)",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 40",
+          "Title": "Object-Oriented Systems and Programming",
+          "Units": 4,
+          "Description": "Primitive types and expressions. The class and method definition. Information hiding and encapsulation. Objects and reference. Overloading. Constructors. Inheritance basics. Programming with inheritance. Dynamic binding and polymorphism. Exception handling. An overview of streams and file input/output. Programming laboratory.",
+          "Design units": 2,
+          "Prerequisite": "EECS 22L",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 50",
+          "Title": "Discrete-Time Signals and Systems",
+          "Units": 4,
+          "Description": "Analysis of discrete-time linear-time-invariant (DTLTI) systems in the time domain and using z-transforms. Introduction to techniques based on Discrete-Time, Discrete, and Fast Fourier Transforms. Examples of their application to digital signal processing and digital communications.",
+          "Design units": 0,
+          "Prerequisite": "EECS 70A",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 55",
+          "Title": "Engineering Probability",
+          "Units": 4,
+          "Description": "Sets and set operations; nature of probability, sample spaces, fields of events, probability measures; conditional probability, independence, random variables, distribution functions, density functions, conditional distributions and densities; moments, characteristic functions, random sequences, independent and Markov sequences.",
+          "Design units": 0,
+          "Prerequisite": "MATH 2D",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 70A",
+          "Title": "Network Analysis I",
+          "Units": 4,
+          "Description": "Modeling and analysis of electrical networks. Basic network theorems. Sinusoidal steady state and transient analysis of RLC networks and the impedance concept.",
+          "Design units": 1,
+          "Prerequisite": "PHYS 7D and (EECS 10 or EECS 12 or MAE 10 or ICS 31 or CEE 20)",
+          "Corequisite": "MATH 3D",
+          "Overlaps with": "MAE 60",
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment. Mechanical Engineering Majors have first consideration for enrollment. Aerospace Engineering Majors have first consideration for enrollment. Civil Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment. Materials Science and Engr Majors have first consideration for enrollment. Environmental Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 70B",
+          "Title": "Network Analysis II",
+          "Units": 4,
+          "Description": "Laplace transforms, complex frequency, and the s-plane. Network functions and frequency response, including resonance. Bode plots. Two-port network characterization.",
+          "Design units": 1,
+          "Prerequisite": "(BME 60B or EECS 10 or EECS 12 or ICS 31 or CEE 20 or MAE 10) and EECS 70A",
+          "Corequisite": "EECS 70LB",
+          "Overlaps with": null,
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment. Materials Science and Engr Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 70LA",
+          "Title": "Network Analysis I Laboratory",
+          "Units": 1,
+          "Description": "Laboratory to accompany EECS 70A.",
+          "Design units": 0,
+          "Prerequisite": "PHYS 7D and (EECS 10 or EECS 12 or BME 60B or CEE 20 or MAE 10)",
+          "Corequisite": "EECS 70A",
+          "Overlaps with": null,
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 70LB",
+          "Title": "Network Analysis II Laboratory",
+          "Units": 1,
+          "Description": "Laboratory to accompany EECS 70B. Materials fee.",
+          "Design units": 1,
+          "Prerequisite": "(BME 60B or EECS 10 or EECS 12 or ICS 31 or CEE 20 or MAE 10) and EECS 70A",
+          "Corequisite": "EECS 70B",
+          "Overlaps with": null,
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 101",
+          "Title": "Introduction to Machine Vision",
+          "Units": 3,
+          "Description": "The use of digital computers for the analysis of visual scenes; image formation and sensing, color, segmentation, shape estimation, motion, stereo, pattern classification, computer architectures, applications. Computer experiments are used to illustrate fundamental principles.",
+          "Design units": 2,
+          "Prerequisite": "EECS 150 or EECS 50",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 111",
+          "Title": "System Software",
+          "Units": 4,
+          "Description": "Multiprogramming, interrupt, processes, kernel, parallelism, critical sections, deadlocks, communication, multiprocessing, multilevel memory management, binding, name management, file systems, protection, resource allocation, scheduling. Experience with concurrent programming, synchronization mechanisms, interprocess communication.",
+          "Design units": 2,
+          "Prerequisite": "EECS 112 and (ICS 46 or EECS 114)",
+          "Corequisite": null,
+          "Overlaps with": "CS 143A",
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 112",
+          "Title": "Organization of Digital Computers",
+          "Units": 4,
+          "Description": "Building blocks and organization of digital computers, the arithmetic, control, and memory units, and input/out devices and interfaces. Microprogramming and microprocessors.",
+          "Design units": 4,
+          "Prerequisite": "EECS 31L",
+          "Corequisite": null,
+          "Overlaps with": "CS 152",
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 112L",
+          "Title": "Organization of Digital Computers Laboratory",
+          "Units": 3,
+          "Description": "Specification and implementation of a processor-based system using a hardware description language such as VHDL. Hands-on experience with design tools including simulation, synthesis, and evaluation using testbenches.",
+          "Design units": 3,
+          "Prerequisite": "EECS 112",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 113",
+          "Title": "Processor Hardware/Software Interfaces",
+          "Units": 4,
+          "Description": "Hardware/software interfacing, including memory and bus interfaces, devices, I/O, and compiler code generation/instruction scheduling. Experience microcontroller programming and interfacing. Specific compiler code generation techniques including local variable and register allocations, instruction dependence and scheduling, and code optimization.",
+          "Design units": 3,
+          "Prerequisite": "EECS 112",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Engineering Majors have first consideration for enrollment. Computer Science and Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 114",
+          "Title": "Engineering Data Structures and Algorithms",
+          "Units": 4,
+          "Description": "Introduces abstract behavior of classes data structures, alternative implementations, informal analysis of time and space efficiency. Also introduces classic algorithms and efficient algorithm design techniques (recursion, divide-and-conquer, branch-and-bound, dynamic programming).",
+          "Design units": 2,
+          "Prerequisite": "EECS 40",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Engineering Majors have first consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 116",
+          "Title": "Introduction to Data Management",
+          "Units": 4,
+          "Description": "Introduction to the design of databases and the use of database management systems (DBMS) for applications. Topics include entity-relationship modeling for design, relational data model, relational algebra, relational design theory, and Structured Query Language (SQL) programming.",
+          "Design units": 1,
+          "Prerequisite": "ICS 33 or EECS 114. ICS 33 with a grade of C or better",
+          "Corequisite": null,
+          "Overlaps with": "CS 122A",
+          "Restriction": "School of Info & Computer Sci students have first consideration for enrollment. Computer Science Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 117",
+          "Title": "Parallel Computer Systems",
+          "Units": 3,
+          "Description": "General introduction to parallel computing focusing on parallel algorithms and architectures. Parallel models: Flynn's taxonomy, dataflow models. Parallel architectures: systolic arrays, hypercube architecture, shared memory machines, dataflow machines, reconfigurable architectures. Parallel algorithms appropriate to each machine type area also discussed.",
+          "Design units": 1,
+          "Prerequisite": "EECS 20 and EECS 114 and EECS 112",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 118",
+          "Title": "Introduction to Artificial Intelligence",
+          "Units": 4,
+          "Description": "Introduction of basic concepts in artificial intelligence. Knowledge representation and reasoning, search, planning, declarative programing, problem solving, and data science.",
+          "Design units": 2,
+          "Prerequisite": "EECS 114",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Engineering Majors have first consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 119",
+          "Title": "VLSI",
+          "Units": 4,
+          "Description": "Design techniques for Very Large Scale Integrated (VLSI) systems and chips. Review CMOS and related process technologies; primitives such as logic gates and larger design blocks; layout; floor planning; design hierarchy, component interfaces; use of associated CAD tools for design.",
+          "Design units": 4,
+          "Prerequisite": "EECS 112 and EECS 170B",
+          "Corequisite": null,
+          "Overlaps with": "EECS 170D, CSE 112",
+          "Restriction": "Computer Engineering Majors have first consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 120",
+          "Title": "Fundamentals of Parallel Computing",
+          "Units": 4,
+          "Description": "Fundamentals of parallel computing, focusing on parallel algorithms and architectures. Topics include design of parallel and I/O efficient algorithms, basics of parallel machine architectures, and current/emerging programming models (shared memory, distributed memory, and accelerators).",
+          "Design units": null,
+          "Prerequisite": "(EECS 12 or CS 152) and EECS 114",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 121",
+          "Title": "System Security",
+          "Units": 3,
+          "Description": "Fundamentals and practices of system security. Topics include cryptographic (encryption, decryption, and message authentication), software vulnerabilities (buffer overflow), network security (layer 2-7 attacks and defenses and PKI), web security (XSS and XSRF), and privacy.",
+          "Design units": null,
+          "Prerequisite": "EECS 22 or ICS 45C",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 125",
+          "Title": "Introduction to Machine Learning for Engineers",
+          "Units": 4,
+          "Description": "Introduction to ML with a special focus on engineering applications. Starts with a mathematical background required for ML and covers various models for supervised learning (classification and regression) and unsupervised learning (clustering).",
+          "Design units": null,
+          "Prerequisite": "EECS 55 and EECS 145 and EECS 12. Recommended: EECS 114.",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 128",
+          "Title": "Information Retrieval and Web Search",
+          "Units": 4,
+          "Description": "Introduction to the analysis and design of information retrieval and web search systems. The focus is on methods for representing, indexing, and retrieving textual and multimedia documents, including web pages, images, and videos.",
+          "Design units": null,
+          "Prerequisite": "EECS 113 or ICS 141",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 131",
+          "Title": "Real-Time Embedded Systems",
+          "Units": 3,
+          "Description": "Introduction to the principles of real-time systems and their embedded applications. Topics include scheduling algorithms, real-time kernels, inter-task communication and synchronization, and interfacing with physical devices.",
+          "Design units": null,
+          "Prerequisite": "EECS 114 and EECS 116",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 132",
+          "Title": "Interactive and Embedded Media",
+          "Units": 4,
+          "Description": "Interactive multimedia technology, including digital video, audio, and imaging. Principles and applications of human-computer interaction. Design, implementation, and evaluation of multimedia systems, with an emphasis on embedded and mobile platforms.",
+          "Design units": null,
+          "Prerequisite": "(EECS 112 or CS 152) and EECS 148 and (ICS 45C or EECS 22)",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 134",
+          "Title": "Computer Graphics",
+          "Units": 4,
+          "Description": "Algorithms and systems for generating images from 3D models. Topics include graphics hardware, rasterization, geometric transformations, illumination and shading models, texture mapping, ray tracing, and animation.",
+          "Design units": null,
+          "Prerequisite": "EECS 12 or CS 152",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 137A",
+          "Title": "Introduction to Digital Integrated Circuits",
+          "Units": 4,
+          "Description": "Analysis and design of digital integrated circuits. MOS transistor theory. CMOS gate and flip-flop design. Computer-aided design of digital circuits. Introduction to VLSI concepts.",
+          "Design units": null,
+          "Prerequisite": "EECS 70A",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 137B",
+          "Title": "Digital Integrated Circuits: Submicron CMOS Technology",
+          "Units": 4,
+          "Description": "Advanced concepts in CMOS digital integrated circuit design. Submicron MOS transistor theory. CMOS logic and memory design. High-performance circuit techniques.",
+          "Design units": null,
+          "Prerequisite": "EECS 137A",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 140A",
+          "Title": "Linear Integrated Circuits",
+          "Units": 4,
+          "Description": "Design of linear integrated circuits including operational amplifiers, function generators, active filters, and voltage regulators. Frequency response, feedback, stability, and compensation. Operational amplifier design and characterization.",
+          "Design units": null,
+          "Prerequisite": "EECS 70A",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 140B",
+          "Title": "Linear Integrated Circuits Laboratory",
+          "Units": 2,
+          "Description": "Experimental laboratory to accompany EECS 140A. Laboratory experiments based on the design of linear integrated circuits including operational amplifiers, function generators, active filters, and voltage regulators.",
+          "Design units": null,
+          "Prerequisite": "EECS 140A",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 142",
+          "Title": "Feedback Control Systems",
+          "Units": 4,
+          "Description": "Modeling and analysis of feedback control systems. Stability, transient response, and frequency response analysis and design. Root locus, Nyquist, and Bode techniques. State variable feedback and multivariable control systems.",
+          "Design units": null,
+          "Prerequisite": "EECS 70A",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 143",
+          "Title": "Microelectronic Devices and Circuits",
+          "Units": 4,
+          "Description": "Principles of semiconductor devices including diodes, bipolar and field effect transistors. Basic digital and analog circuits and applications. Semiconductor device physics. Integrated circuit fabrication technology.",
+          "Design units": null,
+          "Prerequisite": "EECS 70A",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 145",
+          "Title": "Probability and Random Processes for Electrical Engineering",
+          "Units": 4,
+          "Description": "Random experiments, sample spaces, probability measures. Random variables and vectors, distribution functions, density functions, conditional distributions, independence. Expectations, moments. Random sequences and processes. Autocorrelation, power spectral density. Stationary processes, Gaussian processes.",
+          "Design units": null,
+          "Prerequisite": "MATH 2D and (EECS 70A or ICS 31)",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 150",
+          "Title": "Probability and Random Processes for Computer Science",
+          "Units": 4,
+          "Description": "Random experiments, sample spaces, probability measures. Random variables and vectors, distribution functions, density functions, conditional distributions, independence. Expectations, moments. Random sequences and processes. Autocorrelation, power spectral density. Stationary processes, Gaussian processes.",
+          "Design units": null,
+          "Prerequisite": "MATH 2D and (EECS 70A or ICS 31)",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 152A",
+          "Title": "Digital Design Principles",
+          "Units": 4,
+          "Description": "Basic concepts of digital design. Emphasis on combinational logic and sequential system design. Topics include Boolean algebra, minimization techniques, timing diagrams, flip-flops, shift registers, counters, arithmetic circuits, state machines, and CAD tools for digital design.",
+          "Design units": null,
+          "Prerequisite": "(CS 33 or EECS 12 or EECS 20 or ICS 45C) and (MATH 2A or MATH 3A) and (PHYS 7C or PHYS 7D)",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 152B",
+          "Title": "Digital Design Project Laboratory",
+          "Units": 4,
+          "Description": "Digital design project experience including specifications, architectural design, detailed design, implementation, and testing. The project may involve computer-aided design tools and hardware and software components.",
+          "Design units": null,
+          "Prerequisite": "EECS 152A",
+          "Corequisite": null,
+          "Overlaps with": null,
+          "Restriction": null
+        },
+        {
+          "Course": "EECS 159A",
+          "Title": "Senior Design Project I",
+          "Units": 3,
+          "Description": "Teaches problem definition, detailed design, integration, and testability with teams of students specifying, designing, building, and testing complex systems. Lectures include engineering values, discussions, and ethical ramifications of engineering decisions.",
+          "Design units": 3,
+          "Prerequisite": "EECS 113 or EECS 170C or CS 145",
+          "Restriction": "Seniors only. Computer Science Engineering Majors only. Electrical Engineering Majors only. Computer Engineering Majors only."
+        },
+        {
+          "Course": "EECS 159B",
+          "Title": "Senior Design Project II",
+          "Units": 3,
+          "Description": "Teaches problem definition, detailed design, integration, and testability with teams of students specifying, designing, building, and testing complex systems. Lectures include engineering values, discussions, and ethical ramifications of engineering decisions. Materials fee.",
+          "Design units": 3,
+          "Prerequisite": "EECS 159A",
+          "Restriction": "Computer Science Engineering Majors only. Electrical Engineering Majors only. Computer Engineering Majors only."
+        },
+        {
+          "Course": "EECS 160A",
+          "Title": "Introduction to Control Systems",
+          "Units": 4,
+          "Description": "Modeling, stability, and specifications of feedback control systems. Root locus, Bode plots, Nyquist criteria, and state-space methods for dynamic analysis and design.",
+          "Design units": 2,
+          "Prerequisite": "(EECS 10 or EECS 12 or MAE 10 or BME 60B or CEE 20) and EECS 150 and EECS 170B and EECS 170LB",
+          "Corequisite": "EECS 160LA",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 160LA",
+          "Title": "Control Systems I Laboratory",
+          "Units": 1,
+          "Description": "Laboratory accompanying EECS 160A. Materials fee.",
+          "Design units": 1,
+          "Corequisite": "EECS 160A",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 163",
+          "Title": "Power Systems",
+          "Units": 4,
+          "Description": "Generation, transmission, and use of electrical energy. Fault calculation, protection, stability, and power flow.",
+          "Design units": 1,
+          "Corequisite": "EECS 163L",
+          "Prerequisite": "EECS 70B",
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 163L",
+          "Title": "Power Systems Laboratory",
+          "Units": 1,
+          "Description": "Experiments and field trips relevant to studies in power systems. Materials fee.",
+          "Corequisite": "EECS 163",
+          "Restriction": "Computer Science Engineering Majors only. Electrical Engineering Majors only. Computer Engineering Majors only."
+        },
+        {
+          "Course": "EECS 166A",
+          "Title": "Industrial and Power Electronics",
+          "Units": 4,
+          "Description": "Power switching devices, pulse width modulation (PWM) methods, switching converter topologies, control, and magnetics. Materials fee.",
+          "Design units": 2,
+          "Prerequisite": "EECS 170C and EECS 160A",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have second consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment.",
+          "Concurrent with": "EECS 267A"
+        },
+        {
+          "Course": "EECS 170A",
+          "Title": "Electronics I",
+          "Units": 4,
+          "Description": "The properties of semiconductors, electronic conduction in solids, the physics and operation principles of semiconductor devices such as diodes and transistors, transistor equivalent circuits, and transistor amplifiers.",
+          "Design units": 1,
+          "Corequisite": "PHYS 7E",
+          "Prerequisite": "PHYS 7D and EECS 70B",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 170B",
+          "Title": "Electronics II",
+          "Units": 4,
+          "Description": "Design and analysis of single-stage amplifiers, biasing circuits, inverters, logic gates, and memory elements based on CMOS transistors.",
+          "Design units": 2,
+          "Corequisite": "EECS 170LB",
+          "Prerequisite": "EECS 70B and EECS 170A and EECS 170LA",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment. Materials Science and Engr Majors have first consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 170C",
+          "Title": "Electronics III",
+          "Units": 4,
+          "Description": "Principles of operation, design, and utilization of integrated circuit modules, including multi-stage amplifiers, operational amplifiers, and logic circuits.",
+          "Design units": 2,
+          "Corequisite": "EECS 170LC",
+          "Prerequisite": "EECS 170B and EECS 170LB",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have second consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 170D",
+          "Title": "Integrated Electronic Circuit Design",
+          "Units": 4,
+          "Description": "Design and fabrication of modern digital integrated circuits. Fabrication of CMOS process, transistor-level design simulation, functional characteristics of basic digital integrated circuits, and different logic families including the static and dynamic logic, layout, and extraction of digital circuits.",
+          "Design units": 4,
+          "Prerequisite": "EECS 170C and EECS 170LC",
+          "Overlaps with": "EECS 119, CSE 112",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have second consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 170E",
+          "Title": "Analog and Communications IC Design",
+          "Units": 4,
+          "Description": "Advanced topics in design of analog and communications integrated circuits. Topics include: implementation of passive components in integrated circuits; overview of frequency response of amplifiers, bandwidth estimation techniques, high-frequency amplifier design; design of radio-frequency oscillators.",
+          "Design units": 3,
+          "Prerequisite": "EECS 170C",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have second consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 170LA",
+          "Title": "Electronics I Laboratory",
+          "Units": 1,
+          "Description": "Laboratory accompanying EECS 170A to perform experiments on semiconductor material properties, semiconductor device physics and operation principles, and transistor amplifiers to improve experimental skills and to enhance the understanding of lecture materials.",
+          "Design units": 1,
+          "Corequisite": "EECS 170A and PHYS 7E",
+          "Prerequisite": "PHYS 7D and EECS 70B",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment. Materials Science and Engr Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 170LB",
+          "Title": "Electronics II Laboratory",
+          "Units": 1,
+          "Description": "Laboratory accompanying EECS 170B.",
+          "Design units": 1,
+          "Corequisite": "EECS 170B",
+          "Prerequisite": "EECS 170A and EECS 170LA",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have first consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 170LC",
+          "Title": "Electronics III Laboratory",
+          "Units": 1,
+          "Description": "Laboratory accompanying EECS 170C to provide hands-on training in design of digital/analog circuits/subsystems. Materials fee.",
+          "Design units": 1,
+          "Corequisite": "EECS 170C",
+          "Prerequisite": "EECS 170B and EECS 170LB",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Engineering Majors have second consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 174",
+          "Title": "Semiconductor Devices",
+          "Units": 4,
+          "Description": "Metal-semiconductor junctions, diodes, bipolar junction transistors, MOS structures, MOSFETs, CMOS technology, LEDs, and laser diodes.",
+          "Design units": 1,
+          "Prerequisite": "EECS 170A",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment. Materials Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 176",
+          "Title": "Fundamentals of Solid-State Electronics and Materials",
+          "Units": 4,
+          "Description": "Physical properties of semiconductors and the roles materials play in device operation. Topics include: crystal structure, phonon vibrations, energy band, transport phenomenon, optical properties and quantum confinement effect essential to the understanding of electronic, optoelectronic and nanodevices.",
+          "Design units": 1,
+          "Prerequisite": "EECS 170A",
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment. Materials Science and Engr Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 179",
+          "Title": "Microelectromechanical Systems (MEMS)",
+          "Units": 4,
+          "Description": "Small-scale machines, small-scale phenomena, MEMS fabrication, MEMS CAD tools, MEMS devices and packaging, MEMS testing.",
+          "Design units": 2,
+          "Restriction": "Upper-division students only. Computer Science Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 180A",
+          "Title": "Engineering Electromagnetics I",
+          "Units": 4,
+          "Description": "Electrostatics, magnetostatics, and electromagnetic fields: solutions to problems in engineering applications; transmission lines, Maxwell's equations and phasors, plane wave propagation, reflection, and transmission.",
+          "Design units": 1,
+          "Prerequisite": "PHYS 7E and EECS 145",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Biomedical Engineering Majors have first consideration for enrollment. Materials Science Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 180B",
+          "Title": "Engineering Electromagnetics II",
+          "Units": 4,
+          "Description": "Time-varying electromagnetic fields, plane waves, polarization, guidance of waves like rectangular waveguides and microstrips, optical fibers resonant cavities, skin effects and losses, spherical waves, radiation and reception of waves, antenna basics.",
+          "Design units": 1,
+          "Prerequisite": "EECS 180A",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 182",
+          "Title": "Monolithic Microwave Integrated Circuit (MMIC) Analysis and Design",
+          "Units": 4,
+          "Description": "Design of microwave amplifiers including low-noise amplifiers, multiple stage amplifiers, power amplifiers, and introduction to broadband amplifiers. The goal is to provide the basic knowledge for the design of microwave amplifiers ranging from wireless system to radar system.",
+          "Design units": 3,
+          "Prerequisite": "EECS 180A",
+          "Restriction": "Computer Science Engineering Majors have first consideration for enrollment. Electrical Engineering Majors have first consideration for enrollment."
+        },
+        {
+          "Course": "EECS 188",
+          "Title": "Optical Electronics",
+          "Units": 4,
+          "Description": "Photodiodes and optical detection, photometry and radiometry, geometric optics, lens theory, imaging system, EM wave propagation, optical waveguides and fibers, heterojunction structures, laser theory, semiconductor lasers, and optical transmission system.",
+          "Design units": 1,
+          "Prerequisite": "EECS 180A",
+          "Restriction": "Electrical Engineering Majors have first consideration for enrollment. Computer Science Engineering Majors have second consideration for enrollment."
+        },
+        {
+          "Course": "EECS 195",
+          "Title": "Special Topics in Electrical and Computer Engineering",
+          "Units": "1-4",
+          "Description": "Studies special topics in selected areas of Electrical and Computer Engineering. Topics addressed vary each quarter.",
+          "Design units": "1-4",
+          "Prerequisite": "Prerequisites vary.",
+          "Repeatability": "Unlimited as topics vary."
+        },
+        {
+          "Course": "EECS 197",
+          "Title": "Electrical Engineering and Computer Science Internship",
+          "Units": "2-12",
+          "Description": "Students majoring in EECS may receive credit for an approved internship, working at a company under the supervision of an industry mentor and a faculty advisor. Enables students to gain valuable experience in a professional setting and enhance their skills.",
+          "Grading Option": "Pass/no pass only",
+          "Repeatability": "May be taken for credit 3 times."
+        },
+        {
+          "Course": "EECS 198",
+          "Title": "Group Study",
+          "Units": "1-4",
+          "Description": "Group study of selected topics in Electrical and Computer Engineering.",
+          "Design units": "1-4",
+          "Repeatability": "May be repeated for credit unlimited times.",
+          "Restriction": "Upper-division students only."
+        },
+        {
+          "Course": "EECS 199",
+          "Title": "Individual Study",
+          "Units": "1-4",
+          "Description": "For undergraduate Engineering majors in supervised but independent reading, research, or design. Students taking Individual study for design credit are to submit a written paper to the instructor and to the Undergraduate Student Affairs Office in the School of Engineering.",
+          "Design units": "1-4",
+          "Repeatability": "May be taken for credit for 8 units."
+        },
+        {
+          "Course": "EECS 199P",
+          "Title": "Individual Study",
+          "Units": "1-4",
+          "Description": "For undergraduate Engineering majors in supervised but independent reading, research, or design. Students taking individual study for design credit are to submit a written paper to the instructor and to the Student Affairs Office in the School of Engineering.",
+          "Design units": "1-4",
+          "Grading Option": "Pass/no pass only",
+          "Repeatability": "May be repeated for credit unlimited times."
+        },
+        {
+          "Course": "EECS 202P",
+          "Title": "Techniques in Medical Imaging: X-ray, Nuclear, and NMR Imaging",
+          "Units": 4,
+          "Description": "Ionizing radiation, planar and tomographic radiographic and nuclear imaging, magnetism, NMR, MRI imaging.",
+          "Restriction": "Master of Engineering students only. Graduate students only."
+        },
+        {
+            "Course": "EECS 203A",
+            "Title": "Digital Image Processing",
+            "Units": 4,
+            "Description": "Pixel-level digital image representation and elementary operations; Fourier and other unitary transforms; compression, enhancement, filtering, and restoration; laboratory experience is provided.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 203P",
+            "Title": "Digital Image Processing",
+            "Units": 4,
+            "Description": "Pixel-level digital image representation and elementary operations; Fourier and other unitary transforms; compression, enhancement, filtering, and restoration; laboratory experience is provided.",
+            "Restriction": "Master of Engineering students only. Graduate students only."
+        },
+        {
+            "Course": "EECS 204P",
+            "Title": "Personalized Medical Devices",
+            "Units": 4,
+            "Description": "Introduces students to fundamental aspects of medical devices and discusses therapeutic as well as diagnostic devices. Basic aspects of microfluidics and biology critical to personalized medical systems are studied. Typical FDA approval pathways for medical devices are presented.",
+            "Same as": "MAE 204P",
+            "Restriction": "Master of Engineering students only."
+        },
+        {
+            "Course": "EECS 211",
+            "Title": "Advanced System Software",
+            "Units": 4,
+            "Description": "Study of operating systems including interprocess communication, scheduling, resource management, concurrency, reliability, validation, protection and security, and distributed computing support. System software design languages and modeling analysis.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 211P",
+            "Title": "Advanced System Software",
+            "Units": 4,
+            "Description": "Study of operating systems including interprocess communication, scheduling, resource management, concurrency, reliability, validation, protection and security, and distributed computing support. System software design languages and modeling analysis.",
+            "Prerequisite": "Recommended: Undergraduate-level knowledge of system software (e.g. EECS 111) and organization of digital computers (e.g. UCI EECS 112)",
+            "Restriction": "Master of Engineering students only. Graduate students only."
+        },
+        {
+            "Course": "EECS 213",
+            "Title": "Computer Architecture",
+            "Units": 4,
+            "Description": "Problems in hardware, firmware (microprogram), and software. Computer architecture for resource sharing, real-time applications, parallelism, microprogramming, and fault tolerance. Various architectures based on cost/performance and current technology.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 213P",
+            "Title": "Computer Architecture",
+            "Units": 4,
+            "Description": "Problems in hardware, firmware (microprogram), and software. Computer architecture for resource sharing, real-time applications, parallelism, microprogramming, and fault tolerance. Various architectures based on cost/performance and current technology.",
+            "Prerequisite": "Recommended: Undergraduate-level knowledge of organization of digital computers (e.g. EECS 112 and EECS 112L)",
+            "Restriction": "Master of Engineering students only. Graduate students only."
+        },
+        {
+            "Course": "EECS 215",
+            "Title": "Design and Analysis of Algorithms",
+            "Units": 4,
+            "Description": "Computer algorithms from a practical standpoint. Algorithms for symbolic and numeric problems such as sorting, searching, graphs, and network flow. Analysis includes algorithm time and space complexity."
+        },
+        {
+            "Course": "EECS 215P",
+            "Title": "Design and Analysis of Algorithms",
+            "Units": 4,
+            "Description": "Computer algorithms from a practical standpoint. Algorithms for symbolic and numeric problems such as sorting, searching, graphs, and network flow. Analysis includes algorithm time and space complexity.",
+            "Restriction": "Master of Engineering students only. Graduate students only."
+        },
+        {
+            "Course": "EECS 216",
+            "Title": "Advanced Application of Algorithms",
+            "Units": 4,
+            "Description": "Medium-sized group and individual programming project. Topics include specification requirements documentation, practical implementation of algorithms, and testing/verification of design.",
+            "Prerequisite": "Recommended: Undergraduate course work in engineering data structures and algorithms."
+        },
+        {
+            "Course": "EECS 217",
+            "Title": "VLSI System Design",
+            "Units": 4,
+            "Description": "Overview of integrated fabrication, circuit simulation, basic device physics, device layout, timing; MOS logic design; layout generation, module generation, techniques for very large scale integrated circuit design.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 217P",
+            "Title": "VLSI System Design",
+            "Units": 4,
+            "Description": "Overview of integrated fabrication, circuit simulation, basic device physics, device layout, timing; MOS logic design; layout generation, module generation, techniques for very large scale integrated circuit design.",
+            "Prerequisite": "Recommended: Undergraduate-level knowledge of organization of digital computers (e.g. EECS 112)",
+            "Restriction": "Master of Engineering students only. Graduate students only."
+        },
+        {
+            "Course": "EECS 220P",
+            "Title": "Advanced Digital Signal Processing Architecture",
+            "Units": 4,
+            "Description": "Study the latest DSP architectures for applications in communication (wired and wireless) and multimedia processing. Emphasis given to understanding the current design techniques and to evaluate the performance, power, and application domain of the latest DSP processors.",
+            "Prerequisite": "EECS 213P. EECS 213P with a grade of B- or better",
+            "Restriction": "Graduate students only. Master of Engineering students only."
+        },
+        {
+            "Course": "EECS 221",
+            "Title": "Topics in Computer Engineering",
+            "Units": 4,
+            "Description": "New research results in computer engineering.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 222",
+            "Title": "Embedded System Modeling",
+            "Units": 4,
+            "Description": "Computational models for embedded systems. System-level specification and description languages. Concepts of hardware/software co-design. Simulation and validation techniques. Hardware/software partitioning and scheduling. Case studies.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 223",
+            "Title": "Topics in Computer Systems and Software",
+            "Units": 4,
+            "Description": "New research results in computer systems and software.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 227AT",
+            "Title": "Automated Reasoning and Theorem Proving",
+            "Units": 4,
+            "Description": "Studies the development of automated reasoning tools (e.g., automated theorem provers, model checkers) and their applications in formal verification, program analysis, and synthesis. The course will cover topics including logic and proof techniques, SAT and SMT solvers, model checking, and synthesis. Students will develop hands-on experience in using state-of-the-art automated reasoning tools.",
+            "Prerequisite": "CS 170 or EECS 127 or consent of instructor.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 229AT",
+            "Title": "Special Topics in Verification, Testing, and Debugging",
+            "Units": 4,
+            "Description": "Covers advanced techniques for the formal verification, testing, and debugging of software systems. Topics may include formal specification and verification, testing methodologies, dynamic analysis, and automatic bug fixing. The course will emphasize both theoretical foundations and practical applications, with a focus on hands-on projects using state-of-the-art tools.",
+            "Prerequisite": "CS 162 or CS 169 or CS 170 or equivalent background in algorithms, and CS 164 or equivalent background in programming languages and systems, or consent of instructor.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 229T",
+            "Title": "Special Topics in Computer Systems",
+            "Units": 4,
+            "Description": "Advanced topics in computer systems. May be repeated for credit with permission of instructor."
+        },
+        {
+            "Course": "EECS 231A",
+            "Title": "Neuromorphic Engineering",
+            "Units": 4,
+            "Description": "Neuromorphic engineering principles and techniques for building efficient and adaptive computing systems. Topics include principles of neural computation, analog and mixed-signal circuits and systems for implementing neural models, learning algorithms and hardware implementations, and applications to real-time sensing and processing.",
+            "Prerequisite": "EECS 170 or equivalent. Basic background in analog and digital circuits.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 232A",
+            "Title": "Topics in Circuits and Systems",
+            "Units": 4,
+            "Description": "Special topics in circuits and systems.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 232T",
+            "Title": "Topics in Machine Learning Hardware",
+            "Units": 4,
+            "Description": "Focus on the development of hardware for machine learning. Topics include digital and analog hardware for implementing machine learning algorithms, with applications to neural networks, deep learning, and other learning paradigms.",
+            "Prerequisite": "Graduate standing or consent of instructor.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 237A",
+            "Title": "Special Topics in Digital Systems and Integrated Circuit Design",
+            "Units": 4,
+            "Description": "Advanced topics in digital systems and integrated circuit design.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 237B",
+            "Title": "Advanced Digital VLSI Design",
+            "Units": 4,
+            "Description": "Advanced topics in digital VLSI design. Topics include advanced CMOS circuits, low-power VLSI design, clocking strategies, and design for manufacturability.",
+            "Prerequisite": "EECS 217A or consent of instructor.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 237T",
+            "Title": "Topics in Hardware and Embedded System Security",
+            "Units": 4,
+            "Description": "Focus on the design and analysis of secure hardware and embedded systems. Topics include hardware security primitives, side-channel attacks, secure processor architectures, and hardware-software co-design for security.",
+            "Prerequisite": "Graduate standing or consent of instructor.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 241A",
+            "Title": "Wireless Communications Systems",
+            "Units": 4,
+            "Description": "Advanced topics in wireless communications systems.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 241T",
+            "Title": "Topics in Wireless Communication and Networking",
+            "Units": 4,
+            "Description": "Advanced topics in wireless communication and networking.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 242A",
+            "Title": "Advanced Digital Signal Processing Architectures",
+            "Units": 4,
+            "Description": "Advanced digital signal processing architectures for multimedia and communications.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 249A",
+            "Title": "Special Topics in Wireless Communication and Networking",
+            "Units": 4,
+            "Description": "Special topics in wireless communication and networking.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 250A",
+            "Title": "Computer Networks",
+            "Units": 4,
+            "Description": "Advanced topics in computer networks.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 250T",
+            "Title": "Topics in Computer Networks",
+            "Units": 4,
+            "Description": "Advanced topics in computer networks.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 254A",
+            "Title": "Special Topics in Computer Security",
+            "Units": 4,
+            "Description": "Special topics in computer security.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 254T",
+            "Title": "Topics in Computer Security",
+            "Units": 4,
+            "Description": "Advanced topics in computer security.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 255A",
+            "Title": "Special Topics in Computer Systems",
+            "Units": 4,
+            "Description": "Special topics in computer systems.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 255T",
+            "Title": "Topics in Computer Systems",
+            "Units": 4,
+            "Description": "Advanced topics in computer systems.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 256A",
+            "Title": "Special Topics in Embedded Systems",
+            "Units": 4,
+            "Description": "Special topics in embedded systems.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 256T",
+            "Title": "Topics in Embedded Systems",
+            "Units": 4,
+            "Description": "Advanced topics in embedded systems.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 257A",
+            "Title": "Special Topics in Signal Processing",
+            "Units": 4,
+            "Description": "Special topics in signal processing.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 257T",
+            "Title": "Topics in Signal Processing",
+            "Units": 4,
+            "Description": "Advanced topics in signal processing.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 258A",
+            "Title": "Special Topics in Artificial Intelligence",
+            "Units": 4,
+            "Description": "Special topics in artificial intelligence.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 258T",
+            "Title": "Topics in Artificial Intelligence",
+            "Units": 4,
+            "Description": "Advanced topics in artificial intelligence.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 259A",
+            "Title": "Special Topics in Machine Learning",
+            "Units": 4,
+            "Description": "Special topics in machine learning.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 259T",
+            "Title": "Topics in Machine Learning",
+            "Units": 4,
+            "Description": "Advanced topics in machine learning.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 261",
+            "Title": "Advanced Algorithm Design and Analysis",
+            "Units": 4,
+            "Description": "Advanced design and analysis of algorithms. Topics include advanced data structures, advanced graph algorithms, approximation algorithms, randomized algorithms, and online algorithms. Advanced techniques for the design and analysis of algorithms, including advanced data structures, approximation algorithms, randomized algorithms, and online algorithms. Applications to optimization, network algorithms, and computational biology.",
+            "Prerequisite": "EECS 168 or equivalent, and EECS 169 or equivalent, or consent of instructor.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 262A",
+            "Title": "Topics in Machine Learning and Data Mining",
+            "Units": 4,
+            "Description": "Advanced topics in machine learning and data mining.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 262T",
+            "Title": "Topics in Data Mining and Modeling",
+            "Units": 4,
+            "Description": "Advanced topics in data mining and modeling.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 263A",
+            "Title": "Topics in Natural Language Processing",
+            "Units": 4,
+            "Description": "Advanced topics in natural language processing.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 263T",
+            "Title": "Topics in Natural Language Processing",
+            "Units": 4,
+            "Description": "Advanced topics in natural language processing.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 264A",
+            "Title": "Special Topics in Computational Biology",
+            "Units": 4,
+            "Description": "Special topics in computational biology.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 264T",
+            "Title": "Topics in Computational Biology",
+            "Units": 4,
+            "Description": "Advanced topics in computational biology.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 266A",
+            "Title": "Special Topics in Computer Vision",
+            "Units": 4,
+            "Description": "Special topics in computer vision.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 266T",
+            "Title": "Topics in Computer Vision",
+            "Units": 4,
+            "Description": "Advanced topics in computer vision.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 267A",
+            "Title": "Special Topics in Robotics",
+            "Units": 4,
+            "Description": "Special topics in robotics.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 267T",
+            "Title": "Topics in Robotics",
+            "Units": 4,
+            "Description": "Advanced topics in robotics.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 268A",
+            "Title": "Special Topics in Human-Computer Interaction",
+            "Units": 4,
+            "Description": "Special topics in human-computer interaction.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 268T",
+            "Title": "Topics in Human-Computer Interaction",
+            "Units": 4,
+            "Description": "Advanced topics in human-computer interaction.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 269A",
+            "Title": "Special Topics in Computer Graphics",
+            "Units": 4,
+            "Description": "Special topics in computer graphics.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 269T",
+            "Title": "Topics in Computer Graphics",
+            "Units": 4,
+            "Description": "Advanced topics in computer graphics.",
+            "Restriction": "Graduate students only."
+        },
+        {
+            "Course": "EECS 290",
+            "Title": "Master's Research and Thesis",
+            "Units": 1,
+            "Description": "Preparation of a master's thesis under the supervision of a faculty member."
+        },
+        {
+            "Course": "EECS 298",
+            "Title": "Directed Group Study",
+            "Units": "1-4",
+            "Description": "Group study of selected topics.",
+            "Prerequisite": "Consent of instructor."
+        },
+        {
+            "Course": "EECS 299",
+            "Title": "Individual Research",
+            "Units": "1-4",
+            "Description": "Individual research."
+        }
+      ]
+}
+    

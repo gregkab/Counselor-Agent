@@ -1,0 +1,696 @@
+{
+    "Department": "Department of Electrical Engineering and Computer Science",
+    "Faculty": [
+      {
+        "Name": "Hamidreza Aghasi",
+        "Title": "Assistant Professor",
+        "Education": "Ph.D. Cornell University",
+        "Expertise": [
+          "analog circuit design",
+          "mm-wave and terahertz integrated circuits",
+          "high resolution integrated sensing and imaging",
+          "neuromorphic computation",
+          "emerging device technologies"
+        ]
+      },
+      {
+        "Name": "Mohammad Al Faruque",
+        "Title": "Chair of Emulex Career Development and Professor",
+        "Education": "Ph.D. University of Kaiserslautern",
+        "Expertise": [
+          "cyber-physical systems",
+          "internet of things",
+          "embedded systems",
+          "CPS security"
+        ]
+      },
+      {
+        "Name": "Ender Ayanoglu",
+        "Title": "Professor",
+        "Education": "Ph.D. Stanford University",
+        "Expertise": [
+          "communication systems",
+          "communication theory",
+          "communication networks"
+        ]
+      },
+      {
+        "Name": "Nader Bagherzadeh",
+        "Title": "Professor",
+        "Education": "Ph.D. University of Texas at Austin",
+        "Expertise": [
+          "parallel processing",
+          "computer architecture",
+          "computer graphics",
+          "memory systems",
+          "3-D ICs",
+          "heterogeneous computing",
+          "low-power processing"
+        ]
+      },
+      {
+        "Name": "Ozdal Boyraz",
+        "Title": "Professor",
+        "Education": "Ph.D. University of Michigan",
+        "Expertise": [
+          "integrated optics",
+          "silicon photonics",
+          "optical communications systems",
+          "microwave photonics"
+        ]
+      },
+      {
+        "Name": "Peter J. Burke",
+        "Title": "Professor",
+        "Education": "Ph.D. Yale University",
+        "Expertise": [
+          "nano-electronics",
+          "bio-nanotechnology"
+        ]
+      },
+      {
+        "Name": "Hung Cao",
+        "Title": "Associate Professor",
+        "Education": "Ph.D. University of Texas at Arlington",
+        "Expertise": [
+          "MEMS",
+          "sensors",
+          "implants",
+          "heart disease",
+          "neurological disease",
+          "wireless biomedical systems"
+        ]
+      },
+      {
+        "Name": "Filippo Capolino",
+        "Title": "Professor",
+        "Education": "Ph.D. University of Florence",
+        "Expertise": [
+          "optics/electromagnetics in nanostructures and sensors",
+          "antennas/microwaves",
+          "RF and wireless systems"
+        ]
+      },
+      {
+        "Name": "Aparna Chandramowlishwaran",
+        "Title": "Associate Professor",
+        "Education": "Ph.D. Georgia Institute of Technology",
+        "Expertise": [
+          "high-performance computing",
+          "domain-specific compilers",
+          "algorithm-architecture co-design",
+          "data analysis",
+          "scientific computing"
+        ]
+      },
+      {
+        "Name": "Quoc-Viet Dang",
+        "Title": "Associate Professor of Teaching",
+        "Education": "Ph.D. University of California, Irvine",
+        "Expertise": [
+          "e-learning",
+          "data analysis",
+          "autonomous vehicle racing",
+          "cyber-physical systems"
+        ]
+      },
+      {
+        "Name": "Franco De Flaviis",
+        "Title": "Professor",
+        "Education": "Ph.D. University of California, Los Angeles",
+        "Expertise": [
+          "microwave systems",
+          "wireless communications",
+          "electromagnetic circuit simulations"
+        ]
+      },
+      {
+        "Name": "Rainer B. Doemer",
+        "Title": "Professor",
+        "Education": "Ph.D. Dortmund University",
+        "Expertise": [
+          "system-level design",
+          "embedded computer systems",
+          "design methodologies",
+          "specification and modeling languages",
+          "advanced parallel simulation",
+          "integration of hardware and software systems"
+        ]
+      },
+      {
+        "Name": "Magnus Egerstedt",
+        "Title": "Stacey Nicholas Dean of Engineering and Professor",
+        "Education": "Ph.D. KTH Royal Institute of Technology",
+        "Expertise": [
+          "Control theory and robotics",
+          "control and coordination of complex networks",
+          "multirobot systems",
+          "mobile sensor networks and cyber-physical systems"
+        ]
+      },
+      {
+        "Name": "Salma Elmalaki",
+        "Title": "Assistant Professor of Teaching",
+        "Education": "Ph.D. University of California, Los Angeles",
+        "Expertise": [
+          "mobile computing",
+          "pervasive autonomous system",
+          "personalized computing",
+          "internet-of-things (IoT)"
+        ]
+      },
+      {
+        "Name": "Rahim Esfandyarpour",
+        "Title": "Assistant Professor",
+        "Education": "Ph.D. Stanford University",
+        "Expertise": [
+          "nanotechnology and nanoscience",
+          "flexible electronics",
+          "MEMS and NEMS fabrication and modeling",
+          "stretchable and wearable bio devices",
+          "translational micro/nanotechnologies",
+          "biological and chemical sensors",
+          "microfluidics",
+          "microelectronics circuits and systems",
+          "physiological monitoring",
+          "Internet of Things (IOT) bio devices",
+          "technology development for personalized/precision medicine",
+          "Point of Care (POC) diagnostics"
+        ]
+      },
+      {
+        "Name": "Daniel D. Gajski",
+        "Title": "Professor Emeritus",
+        "Education": "Ph.D. University of Pennsylvania",
+        "Expertise": [
+          "embedded systems",
+          "software/hardware design",
+          "design methodologies and tools",
+          "science of design"
+        ]
+      },
+      {
+        "Name": "Jean-Luc Gaudiot",
+        "Title": "Distinguished Professor",
+        "Education": "Ph.D. University of California, Los Angeles",
+        "Expertise": [
+          "parallel processing",
+          "computer architecture",
+          "processor architecture"
+        ]
+      },
+      {
+        "Name": "Michael M. Green",
+        "Title": "Professor",
+        "Education": "Ph.D. University of California, Los Angeles",
+        "Expertise": [
+          "analog/mixed-signal IC design",
+          "broadband circuit design",
+          "theory of nonlinear circuits"
+        ]
+      },
+      {
+        "Name": "Glenn E. Healey",
+        "Title": "Professor",
+        "Education": "Ph.D. Stanford University",
+        "Expertise": [
+          "machine learning",
+          "data science",
+          "sabermetrics",
+          "physical modeling",
+          "computer vision",
+          "image processing"
+        ]
+      },
+      {
+        "Name": "Payam Heydari",
+        "Title": "UCI Chancellor's Professor",
+        "Education": "Ph.D. University of Southern California",
+        "Expertise": [
+          "design and analysis of analog",
+          "radio-frequency",
+          "millimeter-wave and terahertz integrated circuits"
+        ]
+      },
+      {
+        "Name": "Sitao Huang",
+        "Title": "Assistant Professor",
+        "Education": "Ph.D. University of Illinois at Urbana-Champaign",
+        "Expertise": [
+          "hardware architecture and system optimization for high performance computing"
+        ]
+      },
+      {
+        "Name": "Syed A. Jafar",
+        "Title": "Professor",
+        "Education": "Ph.D. Stanford University",
+        "Expertise": [
+          "wireless communication and information theory"
+        ]
+      },
+      {
+        "Name": "Hamid Jafarkhani",
+        "Title": "Conexant-Broadcom Chair in the Center for Pervasive Communications and UCI Chancellor's Professor",
+        "Education": "Ph.D. University of Maryland, College Park",
+        "Expertise": [
+          "communication theory",
+          "signal processing coding",
+          "wireless networks",
+          "medical image segmentation"
+        ]
+      },
+      {
+        "Name": "Pramod Khargonekar",
+        "Title": "UCI Distinguished Professor",
+        "Education": "Ph.D. University of Florida",
+        "Expertise": [
+          "systems and control theory",
+          "learning and intelligent systems",
+          "applications to renewable energy and smart grid",
+          "neural engineering and economics",
+          "leadership and creativity",
+          "technology and society"
+        ]
+      },
+      {
+        "Name": "Stuart A. Kleinfelder",
+        "Title": "Professor Emeritus",
+        "Education": "Ph.D. Stanford University",
+        "Expertise": [
+          "circuits and systems for visual imaging",
+          "X-rays",
+          "electron microscopy",
+          "particle physics"
+        ]
+      },
+      {
+        "Name": "Fadi J. Kurdahi",
+        "Title": "Director, Center for Embedded Computer Systems and Associate Dean for Graduate and Professional Studies and Professor",
+        "Education": "Ph.D. University of Southern California",
+        "Expertise": [
+          "embedded and cyber-physical systems",
+          "VLSI system design",
+          "design automation of digital systems"
+        ]
+      },
+      {
+        "Name": "Hyoukjun Kwon",
+        "Title": "Assistant Professor",
+        "Education": "Ph.D. Georgia Institute of Technology",
+        "Expertise": [
+          "deep learning accelerators with flexible dataflow and mappings based on data- and communication-centric approaches"
+        ]
+      },
+      {
+        "Name": "Guann-Pyng Li",
+        "Title": "Director of the UCI Division of the California Institute for Telecommunications and Information Technology (Calit2)",
+        "Education": "Ph.D. University of California, Los Angeles",
+        "Expertise": [
+          "micro/nano technology for sensors and actuators",
+          "internet of things (IoT)",
+          "smart manufacturing",
+          "biomedical devices",
+          "millimeter wave wireless communication"
+        ]
+      },
+      {
+        "Name": "Zhou Li",
+        "Title": "Assistant Professor",
+        "Education": "Ph.D. Indiana University Bloomington",
+        "Expertise": [
+          "data-driven security analytics",
+          "internet measurement",
+          "side-channel analysis",
+          "IoT security"
+        ]
+      },
+      {
+        "Name": "Kwei-Jay Lin",
+        "Title": "Professor Emeritus",
+        "Education": "Ph.D. University of Maryland, College Park",
+        "Expertise": [
+          "real-time systems",
+          "distributed systems",
+          "service-oriented computing"
+        ]
+      },
+      {
+        "Name": "Athina Markopoulou",
+        "Title": "Professor",
+        "Education": "Ph.D. Stanford University",
+        "Expertise": [
+          "networking",
+          "network protocols",
+          "network measurement and analysis",
+          "mobile systems and mobile data analysis",
+          "network security and privacy"
+        ]
+      },
+      {
+        "Name": "Henry Samueli",
+        "Title": "Adjunct Professor",
+        "Education": "Ph.D. University of California, Los Angeles",
+        "Expertise": [
+          "digital signal processing",
+          "communications systems engineering",
+          "CMOS integrated circuit design for applications in high-speed data transmission systems"
+        ]
+      },
+      {
+        "Name": "Terence Sanger",
+        "Title": "Vice President and Chief Scientific Officer for Children's Hospital Orange County and Professor",
+        "Education": "M.D. Harvard Medical School",
+        "Expertise": [
+          "biomedical engineering"
+        ]
+      },
+      {
+        "Name": "Maxim Shcherbakov",
+        "Title": "Assistant Professor",
+        "Education": "Ph.D. Lomonosov Moscow State University",
+        "Expertise": [
+          "nanophotonics",
+          "nonlinear and quantum optics",
+          "nanofabrication",
+          "strong-ﬁeld physics",
+          "ultrafast processes"
+        ]
+      },
+      {
+        "Name": "Yanning Shen",
+        "Title": "Assistant Professor",
+        "Education": "Ph.D. University of Minnesota",
+        "Expertise": [
+          "machine learning",
+          "data science",
+          "network science",
+          "statistical-signal processing"
+        ]
+      },
+      {
+        "Name": "Phillip C-Y Sheu",
+        "Title": "Professor",
+        "Education": "Ph.D. University of California, Berkeley",
+        "Expertise": [
+          "semantic computing",
+          "robotic computing",
+          "artificial intelligence",
+          "biomedical computing",
+          "multimedia computing"
+        ]
+      },
+      {
+        "Name": "Yasser Shoukry",
+        "Title": "Associate Professor",
+        "Education": "Ph.D. University of California, Los Angeles",
+        "Expertise": [
+          "resilience, safety, security and privacy of artificial intelligence (AI)",
+          "controlled cyber-physical systems (CPS)",
+          "internet-of-things (IoT)",
+          "robotic systems"
+        ]
+      },
+      {
+        "Name": "Keyue M. Smedley",
+        "Title": "Professor",
+        "Education": "Ph.D. California Institute of Technology",
+        "Expertise": [
+          "power electronics",
+          "renewables",
+          "energy storage and grid stabilization"
+        ]
+      },
+      {
+        "Name": "A. Lee Swindlehurst",
+        "Title": "Department Chair and Distinguished Professor",
+        "Education": "Ph.D. Stanford University",
+        "Expertise": [
+          "signal processing",
+          "estimation and detection theory",
+          "applications in wireless communications",
+          "geo-positioning",
+          "radar",
+          "sonar",
+          "biomedicine"
+        ]
+      },
+      {
+        "Name": "Chen S. Tsai",
+        "Title": "Distinguished Professor Emeritus",
+        "Education": "Ph.D. Stanford University",
+        "Expertise": [
+          "integrated microwave magnetics",
+          "Ultrasonic Atomization for Nanoparticles Synthesis",
+          "silicon photonics"
+        ]
+      },
+      {
+        "Name": "Peter Tseng",
+        "Title": "Associate Professor",
+        "Education": "Ph.D. University of California, Los Angeles",
+        "Expertise": [
+          "(bio) Micro-Electro-Mechanical systems",
+          "wearable technology",
+          "materials-by-design",
+          "bioelectromagnetism",
+          "nanotechnology"
+        ]
+      },
+      {
+        "Name": "Zhiying Wang",
+        "Title": "Associate Professor",
+        "Education": "Ph.D. California Institute of Technology",
+        "Expertise": [
+          "information theory",
+          "coding theory for data storage",
+          "modeling",
+          "compression",
+          "computation for genomic data"
+        ]
+      },
+      {
+        "Name": "H. Kumar Wickramasinghe",
+        "Title": "Henry Samueli Endowed Chair in Engineering and Professor Emeritus",
+        "Education": "Ph.D. University of London",
+        "Expertise": [
+          "nanoscale measurements and characterization",
+          "scanning probe microscopy",
+          "storage technology",
+          "nano-bio measurement technology"
+        ]
+      },
+      {
+        "Name": "Homayoun Yousefi'zadeh",
+        "Title": "Adjunct Professor",
+        "Education": "Ph.D. University of Southern California",
+        "Expertise": [
+          "communications networks"
+        ]
+      }
+    ],
+    "Affiliate Faculty": [
+      {
+        "Name": "Carter Butts",
+        "Title": "Chancellor's Professor",
+        "Education": "Ph.D. Carnegie Mellon University",
+        "Expertise": [
+          "mathematical sociology",
+          "social networks",
+          "quantitative methodology",
+          "human judgment and decision making",
+          "economic sociology"
+        ]
+      },
+      {
+        "Name": "Qi Alfred Chen",
+        "Title": "Assistant Professor",
+        "Education": "Ph.D. University of Michigan",
+        "Expertise": [
+          "smart systems and IoT"
+        ]
+      },
+      {
+        "Name": "Brian Demsky",
+        "Title": "Professor",
+        "Education": "Ph.D. Massachusetts Institute of Technology",
+        "Expertise": [
+          "software reliability",
+          "security",
+          "software engineering",
+          "compilation",
+          "parallel software",
+          "program analysis",
+          "program understanding"
+        ]
+      },
+      {
+        "Name": "Nikil D. Dutt",
+        "Title": "UCI Distinguished Professor",
+        "Education": "Ph.D. University of Illinois at Urbana–Champaign",
+        "Expertise": [
+          "embedded systems",
+          "computer architecture",
+          "electronic design automation",
+          "software systems",
+          "brain-inspired architectures and computing"
+        ]
+      },
+      {
+        "Name": "Aleksandr Figotin",
+        "Title": "Professor",
+        "Education": "Ph.D. Tashkent University of Information Technologies",
+        "Expertise": [
+          "applied and computational mathematics",
+          "mathematical physics"
+        ]
+      },
+      {
+        "Name": "Michael S. Franz",
+        "Title": "UCI Chancellor's Professor",
+        "Education": "Ph.D. Swiss Federal Institute of Technology in Zurich",
+        "Expertise": [
+          "systems software",
+          "compilers and virtual machines",
+          "trustworthy computing",
+          "software engineering"
+        ]
+      },
+      {
+        "Name": "Gultekin Gulsen",
+        "Title": "Associate Professor",
+        "Education": "Ph.D. Bogazici University",
+        "Expertise": []
+      },
+      {
+        "Name": "Ian G. Harris",
+        "Title": "Professor",
+        "Education": "Ph.D. University of California, San Diego",
+        "Expertise": [
+          "hardware/software covalidation",
+          "manufacturing test"
+        ]
+      },
+      {
+        "Name": "Scott A. Jordan",
+        "Title": "Professor",
+        "Education": "Ph.D. University of California, Berkeley",
+        "Expertise": [
+          "pricing and differentiated services in the Internet",
+          "resource allocation in wireless networks",
+          "telecommunications policy"
+        ]
+      },
+      {
+        "Name": "Arash Kheradvar",
+        "Title": "Professor",
+        "Education": "Ph.D. California Institute of Technology",
+        "Expertise": [
+          "cardiac mechanics",
+          "cardiovascular devices",
+          "cardiac imaging"
+        ]
+      },
+      {
+        "Name": "Michelle Khine",
+        "Title": "Professor",
+        "Education": "Ph.D. University of California, Berkeley",
+        "Expertise": [
+          "development of novel nano- and micro-fabrication technologies and systems for single cell analysis",
+          "stem cell research",
+          "in-vitro diagnostics"
+        ]
+      },
+      {
+        "Name": "Marco Levorato",
+        "Title": "Associate Professor",
+        "Education": "Ph.D. University of Padua",
+        "Expertise": [
+          "artificial intelligence and machine learning",
+          "networks and distributed systems",
+          "statistics and statistical theory",
+          "stochastic modeling",
+          "signal processing"
+        ]
+      },
+      {
+        "Name": "Sabee Y. Molloi",
+        "Title": "Professor",
+        "Education": "Ph.D. University of Pennsylvania",
+        "Expertise": [
+          "imaging physics",
+          "imaging science",
+          "radiation physics",
+          "imaging informatics"
+        ]
+      },
+      {
+        "Name": "Veasna Sou",
+        "Title": "Assistant Professor",
+        "Education": "Ph.D. University of California, Irvine",
+        "Expertise": [
+          "robotics",
+          "multi-agent systems",
+          "computer vision"
+        ]
+      },
+      {
+        "Name": "Gene Tsudik",
+        "Title": "Chancellor's Professor",
+        "Education": "Ph.D. University of Southern California",
+        "Expertise": [
+          "computer security",
+          "privacy",
+          "applied cryptography",
+          "wireless and sensor network security"
+        ]
+      },
+      {
+        "Name": "Michael Y. Wang",
+        "Title": "Professor",
+        "Education": "Ph.D. University of Southern California",
+        "Expertise": [
+          "machine learning",
+          "data mining",
+          "computational biology",
+          "bioinformatics"
+        ]
+      },
+      {
+        "Name": "Yuqing Zhang",
+        "Title": "Associate Professor",
+        "Education": "Ph.D. Princeton University",
+        "Expertise": [
+          "information theory",
+          "quantum information science"
+        ]
+      },
+      {
+        "Name": "Yongjie Zhang",
+        "Title": "Assistant Professor",
+        "Education": "Ph.D. Massachusetts Institute of Technology",
+        "Expertise": [
+          "computational materials science and engineering",
+          "multiscale and multiphysics modeling and simulation",
+          "machine learning and data-driven materials discovery",
+          "materials informatics",
+          "solid mechanics and mechanical behavior of materials",
+          "computational nanotechnology and nanomechanics",
+          "computational chemistry and catalysis",
+          "electronic and thermal transport in materials",
+          "materials for energy conversion and storage",
+          "advanced manufacturing"
+        ]
+      },
+      {
+        "Name": "Qi Zhou",
+        "Title": "Assistant Professor",
+        "Education": "Ph.D. University of Wisconsin, Madison",
+        "Expertise": [
+          "formal methods",
+          "embedded systems and CPS",
+          "machine learning for CPS",
+          "IoT security"
+        ]
+      }
+    ]
+}
