@@ -1,0 +1,32 @@
+{
+    "Department": "Department of Electrical Engineering and Computer Science",
+    "FacultyDataFile": "EECS_Faculty.json",
+    "Chair": "Lee Swindlehurst",
+    "Contact": "2213 Engineering Hall, 949-824-5689, http://www.eng.uci.edu/dept/eecs",
+    "Overview": "Electrical Engineering and Computer Science is a broad field of study reaching from physical electronic devices all the way up to complex computer software. It encompasses diverse subject areas such as photonics, electromagnetics, physics of semiconductor devices, analog, digital, and power electronics and circuits, communication and signal processing, as well as digital hardware and software systems, computer systems and networks, and distributed computing.",
+    "Degrees Offered": [
+      {
+        "Name": "Electrical Engineering",
+        "Overview": "Focuses on the study of electronic devices and circuits, power electronics, and the generation, transmission, and utilization of electrical energy."
+      },
+      {
+        "Name": "Computer Engineering",
+        "Overview": "Trained in various fields of computer science and engineering, including the design and analysis of digital computers and networks."
+      },
+      {
+        "Name": "Computer Science and Engineering",
+        "Overview": "Offered in conjunction with the Donald Bren School of Information and Computer Sciences, focusing on digital hardware and software systems."
+      }
+    ],
+    "Key Research Areas": [
+      "Medicine",
+      "Biology",
+      "Geology",
+      "Ecology",
+      "Telecommunications",
+      "Wireless Communications",
+      "Signal Processing"
+    ],
+    "Courses": [
+    ]
+  }
