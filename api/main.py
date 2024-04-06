@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 import uvicorn
-from api.chat_logic import chat_router
+from api.chat_logic import router as chat_router
 
 app = FastAPI(
     title="Counselor Agent with OPENAI API",
@@ -11,4 +11,4 @@ app = FastAPI(
 app.include_router(chat_router)
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="localhost", port=8000)
+    uvicorn.run("main:app", host="localhost", port=8000, reload=True)

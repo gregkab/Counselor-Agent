@@ -4,6 +4,7 @@ huggingface_hub
 python.dotenv
 streamlit
 langchain-openai
+langchain-community
 langchain-cli
 langsmith
 beautifulsoup4
@@ -16,3 +17,4 @@ fastapi
 uvicorn
 chromadb
 bs4
+unstructured

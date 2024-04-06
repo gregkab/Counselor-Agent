@@ -55,3 +55,19 @@ This project is in its initial stages and aims to grow with contributions. Feel 
 ## License
 
 All Rights Reserved to Greg and Mina :)
+
+## Project Structure
+
+Counselor-Agent/
+├── README.md
+├── api/
+│ ├── **init**.py
+│ ├── chat_logic.py
+│ └── main.py
+├── client/
+│ └── client.py
+├── knowledgebase/
+│ ├── ECS_faculty.json
+│ ├── EECS_courses.json
+│ └── departments.json
+└── requirements.txt
