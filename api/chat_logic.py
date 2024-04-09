@@ -10,6 +10,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from pydantic import BaseModel
 
 load_dotenv()
 
@@ -43,12 +44,14 @@ def counselorAgent(topic):
     )
     return rag_chain.invoke(topic)
 
+class TopicModel(BaseModel):
+    topic: str
+    
 # Route for counseling session initiation or interaction
 @router.post("/counsel")
-async def counsel(topic: str):
+async def counsel(body: TopicModel):
     try:
-        # Integrate AI logic here. For now simple example.
-        response = counselorAgent(topic)
+        response = counselorAgent(body.topic)
         return {"response": response}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

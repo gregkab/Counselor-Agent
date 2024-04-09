@@ -34,13 +34,13 @@ This project demonstrates how to build a simple API server using FastAPI to inte
 
 ## Running the Application
 
-1. **Start the FastAPI Server**: Run the following command to start the FastAPI server.
+1. **Start the FastAPI Server**: Run the following command to start the FastAPI server in api folder.
 
    ```bash
-   uvicorn app:app --reload
+   uvicorn api.main:app --reload
    ```
 
-2. **Launch the Streamlit Client**: In a new terminal window, ensure the `langchain-demo` environment is activated and run:
+2. **Launch the Streamlit Client**: In a new terminal window, ensure the `counselor-agent` environment is activated and run:
 
    ```bash
    streamlit run client.py
