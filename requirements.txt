@@ -19,3 +19,4 @@ chromadb
 bs4
 unstructured
 astrapy
+langchain-astradb
