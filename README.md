@@ -2,22 +2,22 @@
 
 ## Project Overview
 
-This project demonstrates how to build a simple API server using FastAPI to interface with the OpenAI API. It serves as a backend for a Streamlit frontend client that requests essays based on user input. The application aims to evolve into a counselor agent, providing academic and counseling support to students at universities.
+The Counselor Agent project is designed as an innovative tool to provide academic and counseling support to university students. Leveraging FastAPI and the OpenAI API, it integrates advanced AI-driven chat capabilities to assist users with a wide range of academic inquiries. This backend service is complemented by a Streamlit frontend, creating an interactive and user-friendly interface for working with an AI counselor.
 
 ## Environment Setup
 
 1. **Install Anaconda or Miniconda**: Ensure you have Anaconda or Miniconda installed on your machine. If not, download and install from [Anaconda](https://www.anaconda.com/products/individual) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
 
-2. **Create a Conda Environment**: Open your terminal and run the following command to create a new Conda environment named `langchain-demo` with Python 10.
+2. **Create a Conda Environment**: Open your terminal and run the following command to create a new Conda environment named `counselor-agent` with Python 10.
 
    ```bash
-   conda create --name langchain-demo python=10
+   conda create --name counselor-agent python=10
    ```
 
 3. **Activate the Environment**: Activate the newly created environment using:
 
    ```bash
-   conda activate langchain-demo
+   conda activate counselor-agent
    ```
 
 4. **Install Requirements**: Navigate to the project directory and install the required packages using:
@@ -34,7 +34,7 @@ This project demonstrates how to build a simple API server using FastAPI to inte
 
 ## Running the Application
 
-1. **Start the FastAPI Server**: Run the following command to start the FastAPI server in api folder.
+1. **Start the FastAPI Server**: Inside the 'api' directory, launch the FastAPI server.
 
    ```bash
    uvicorn api.main:app --reload
@@ -47,6 +47,16 @@ This project demonstrates how to build a simple API server using FastAPI to inte
    ```
 
 3. **Use the Application**: Navigate to the Streamlit app's URL displayed in the terminal to interact with the application.
+
+## Knowledgebase Initialization
+
+Before using the application, populate AstraDB with your knowledgebase data:
+
+1. **Run the `knowledgebase_to_astradb.py` Script**:
+   This script transfers your knowledgebase files to AstraDB, setting up the data for retrieval.
+   ```bash
+   python knowledgebase_to_astradb.py
+   ```
 
 ## Contributing
 
@@ -70,4 +80,5 @@ Counselor-Agent/
 │ ├── ECS_faculty.json
 │ ├── EECS_courses.json
 │ └── departments.json
+├── knowledgebase_to_astradb.py
 └── requirements.txt
